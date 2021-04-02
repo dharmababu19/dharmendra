@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="titles">
+        <item>Ashok</item>
+        <item>Batasari</item>
+        <item>charan</item>
+        <item>dharma</item>
+        <item>esther</item>
+        <item>harsha</item>
+    </string-array>
+    <string-array name="subtitles">
+        <item>mulkal</item>
+        <item>tpt</item>
+        <item>tpt</item>
+        <item>penumur</item>
+        <item>hyd</item>
+        <item>rajampet</item>
+    </string-array>
+</resources>
